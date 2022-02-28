@@ -4,9 +4,12 @@ import ReactDOM from 'react-dom';
 import { shallow } from 'enzyme'
 import Toggler from '../components/Toggler'
 
+beforeEach(()=>{
+  const wrapped = shallow(<App />)
+})
 
 it('has two toggle components', () => {
-  const wrapped = shallow(<App />)
+  
   expect(wrapped.find(Toggler).length).toEqual(2)
 });
 
