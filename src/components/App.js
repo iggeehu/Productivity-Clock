@@ -1,7 +1,8 @@
 import React from 'react';
 import Toggler from './Toggler';
 import '../App.css';
-import { BiPlay, BiPause, BiUndo } from 'react-icons/bi'
+import { BiPlay, BiPause, BiUndo } from 'react-icons/bi';
+
 
 
 

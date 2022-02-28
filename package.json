@@ -1,5 +1,5 @@
 {
-  "homepage":"http://iggeehu.github.io/Productivity-Clock",
+  "homepage": "https://iggeehu.github.io/Productivity-Clock/",
   "name": "productivity-clock",
   "version": "0.1.0",
   "private": true,
@@ -12,7 +12,6 @@
     "@testing-library/user-event": "^13.5.0",
     "@wojtekmaj/enzyme-adapter-react-17": "^0.4.1",
     "enzyme": "^3.11.0",
-    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
@@ -20,7 +19,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -46,6 +45,7 @@
     ]
   },
   "devDependencies": {
-    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.6"
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.6.6",
+    "gh-pages": "^3.2.3"
   }
 }
