@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Productivity-Clock/static/css/main.3437c2c4.css",
+    "main.js": "/Productivity-Clock/static/js/main.9de916f1.js",
+    "static/js/787.71156f89.chunk.js": "/Productivity-Clock/static/js/787.71156f89.chunk.js",
+    "index.html": "/Productivity-Clock/index.html",
+    "main.3437c2c4.css.map": "/Productivity-Clock/static/css/main.3437c2c4.css.map",
+    "main.9de916f1.js.map": "/Productivity-Clock/static/js/main.9de916f1.js.map",
+    "787.71156f89.chunk.js.map": "/Productivity-Clock/static/js/787.71156f89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3437c2c4.css",
+    "static/js/main.9de916f1.js"
+  ]
+}
